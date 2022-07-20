@@ -5,6 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+h1 {
+  font-family: 'Edu SA Beginner', cursive;
+  color: rgba(0,128,128,1);
 }
 
 code {
